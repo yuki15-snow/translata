@@ -3,7 +3,7 @@ from tkinter.filedialog import *
 import re
 import json
 root = tk.Tk()
-root.option_add('*font',['',15])
+root.option_add('*font',['TsukuARdGothic-Regular',20])
 root.attributes("-fullscreen", True)
 root.resizable(0,0)
 
